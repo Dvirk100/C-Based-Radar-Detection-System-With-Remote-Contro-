@@ -5,10 +5,10 @@ Welcome to this GitHub repository showcasing an advanced embedded system project
 
 # Features
 
-- Modular Design: The code is organized into Application (APP), Board Support Package (BSP), Hardware Abstraction Layer (HAL), and Application Programming Interface (API) layers, enhancing both maintainability and scalability.
-- Finite State Machine (FSM): Manages system states and transitions for effective control of operational modes, ensuring a robust and responsive system.
-- Peripheral Management: Utilizes UART for efficient data transfer between the PC and MCU, facilitating remote control and monitoring of the radar detection system.
-- Low Power Management: Implements various low-power modes to optimize power consumption, crucial for battery-operated and energy-efficient applications.
+- **Modular Design**: The code is organized into Application (APP), Board Support Package (BSP), Hardware Abstraction Layer (HAL), and Application Programming Interface (API) layers, enhancing both maintainability and scalability.
+- **Finite State Machine (FSM)**: Manages system states and transitions for effective control of operational modes, ensuring a robust and responsive system.
+- **Peripheral Management**: Utilizes UART for efficient data transfer between the PC and MCU, facilitating remote control and monitoring of the radar detection system.
+- **Low Power Management**: Implements various low-power modes to optimize power consumption, crucial for battery-operated and energy-efficient applications.
 
 ## FSM States and Operations
 
