@@ -52,3 +52,4 @@ Key Peripherals:
 3. **Run**: Power up the system and interact with it using UART commands via a PC to control the radar detection system.
 
 This project demonstrates how to effectively manage a radar detection system using an FSM in an embedded C environment, showcasing advanced techniques in modular design, peripheral management, and low-power operation.
+For more info, go to https://youtu.be/k-vPiOiqaU4
